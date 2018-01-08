@@ -117,6 +117,10 @@ body, html {
   text-decoration:none !important;
 }
 
+.masthead h2 i{
+  margin-right:5px;
+}
+
 @media (max-width: 768px) {
   .masthead h2 span {
     display: none !important;
