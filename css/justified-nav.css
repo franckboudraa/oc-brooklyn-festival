@@ -9,6 +9,26 @@ body, html {
   background-size: cover;
 }
 
+#lalaland-theme{
+  background-image: url('../img/bg_lalaland.jpg') !important;
+  color:#fff !important;
+}
+
+#pulpfiction-theme{
+  background-image: url('../img/bg_pulpfiction.jpg') !important;
+  color:#fff !important;
+}
+
+#fightclub-theme{
+  background-image: url('../img/bg_fightclub.jpg') !important;
+  color:#fff !important;
+}
+
+#shrek-theme{
+  background-image: url('../img/bg_shrek.jpg') !important;
+  color:#fff !important;
+}
+
 .footer {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -70,6 +90,31 @@ body, html {
 .map-border {
   border: 2px solid #333;
   border-radius: 555px 25px 15px 25px/25px 5px 35px 555px;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.metacritic-square {
+  width: 80px;
+  height: 80px;
+  background-color: #69ca3f
+}
+
+.metacritic-square div {
+  padding-top: 15px;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+
+.metacritic-square div a {
+  text-decoration: none;
+  color: #fff
+}
+
+.no-decoration{
+  text-decoration:none !important;
 }
 
 @media (max-width: 768px) {

@@ -18,7 +18,7 @@
   <link href="css/justified-nav.css" rel="stylesheet">
 </head>
 
-<body class="bg">
+<body class="bg" id="shrek-theme">
 
 <div class="container">
 
@@ -38,14 +38,14 @@
           <li class="nav-item">
             <a class="nav-link" href="news.html">News</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="movies.html">Projected movies</a>
+          <li class="nav-item active">
+            <a class="nav-link" href="movies.html">Projected movies <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item dropdown active">
+          <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown"
                aria-haspopup="true" aria-expanded="false">Plan your visit</a>
             <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="access.html">Practical info <span class="sr-only">(current)</span></a>
+              <a class="dropdown-item" href="access.html">Practical info</a>
               <a class="dropdown-item" href="http://brooklyn.news12.com" target="_blank">Brooklyn News</a>
               <a class="dropdown-item" href="https://www.brooklynbridgepark.org" target="_blank">Brooklyn Bridge
                 Park</a>
@@ -60,54 +60,43 @@
   </header>
 
   <main role="main" class="container">
+    <div class="text-center">
+      <a href="movies.html" class="btn btn-secondary btn-sm">Back to Projected Movies</a>
+    </div>
 
     <div class="container marketing">
-      <div class="row">
-        <div class="col-lg-4 col-xs-12">
-
-          <div class="row">
-            <div class="col-12"><h1>Practical info</h1></div>
-          </div>
-
-          <div class="row">
-            <div class="col-12">
-              <p>August 5th-8th, 2018</p>
-              <p>Opening hours: 6pm - midnight</p>
+      <div class="row margin-top-20">
+        <div class="col-xs-12 col-sm-12 col-md-2 text-center">
+          <img class="rounded-circle" src="img/shrek.png" alt="Generic placeholder image" width="140"
+               height="140">
+          <p>by Andrew Adamson</p>
+          <div class="text-center mx-auto margin-top-20 metacritic-square">
+            <div>
+              <a href="http://www.metacritic.com/movie/shrek" target="_blank">84</a>
             </div>
           </div>
-
-          <div class="row">
-
-            <div class="col-12"><h4>Access to festival</h4></div>
-          </div>
-
-          <div class="row">
-            <div class="col-12">
-              <address>
-                <p>Brooklyn Bridge Park</p>
-                <p>334 Furman St, Brooklyn, NY 11201, USA</p>
-                <p><i class="fa fa-subway fa-lg"></i> Line 1</p>
-              </address>
-            </div>
-          </div>
-
+          <a class="btn btn-secondary btn-sm margin-top-20" href="http://www.imdb.com/title/tt0126029/" role="button"
+             target="_blank">View on IMDB
+            &raquo;</a>
         </div>
-        <div class="col-lg-8 col-xs-12">
-          <iframe
-            width="100%"
-            height="400"
-            class="map-border"
-            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCa7bBHI93tq40UvGmrmyDXRFEeyL5i_HA&q=Brooklyn+Bridge+Park"
-            allowfullscreen>
-          </iframe>
+        <div class="col-xs-12 col-sm-12 col-md-10">
+          <h1>Shrek
+            <small class="text-muted">(August 8, 2018 at 8PM)</small>
+          </h1>
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W37DlG1i61s?rel=0"
+                    allowfullscreen></iframe>
+          </div>
         </div>
-      </div>
+      </div><!-- /.row -->
+    </div>
 
   </main><!-- /.container -->
 
   <!-- Site footer -->
   <footer class="footer">
-    <p>&copy; Brooklyn Outdoor Film Festival 2018 <span class="float-right"><a href="https://www.facebook.com" class="btn social-btn-small social-color-fb"><i
+    <p>&copy; Brooklyn Outdoor Film Festival 2018 <span class="float-right"><a href="https://www.facebook.com"
+                                                                               class="btn social-btn-small social-color-fb"><i
       class="fa fa-facebook fa-lg align-middle white-text"></i></a>
             <a href="https://www.twitter.com" class="btn social-btn-small social-color-twitter"><i
               class="fa fa-twitter fa-lg align-middle white-text"></i></a>
