@@ -1,0 +1,104 @@
+body, html {
+  padding-top: 20px;
+}
+
+.bg {
+  background-image: url('../img/bg_1_opti.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 40px;
+  border-top: 1px solid #eee;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.navbar {
+  background-image: linear-gradient(to bottom, #f7f7f7 0%, #eee 100%);
+  border: 1px solid #e5e5e5;
+}
+
+.navbar-nav .active > .nav-link {
+  text-decoration: underline;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.social-color-fb {
+  background-color: #3b5998;
+}
+
+.social-color-twitter {
+  background-color: #1DA1F2;
+}
+
+.social-color-instagram {
+  background-color: #e95950;
+}
+
+.social-color-googlep {
+  background-color: #dd4b39;
+}
+
+.social-btn-small {
+  width: 45px;
+}
+
+.social-btn-medium {
+  width: 60px;
+}
+
+.not-resizable {
+  resize: none;
+}
+
+.map-border {
+  border: 2px solid #333;
+  border-radius: 555px 25px 15px 25px/25px 5px 35px 555px;
+}
+
+@media (max-width: 768px) {
+  .masthead h2 span {
+    display: none !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+  }
+
+  .navbar-nav .nav-item {
+    -ms-flex: 1 0 auto;
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+  }
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
