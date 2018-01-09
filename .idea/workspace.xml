@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be97d940-f0cb-4802-9db4-aa6a19990c05" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/justified-nav.css" afterPath="$PROJECT_DIR$/css/justified-nav.css" />
-      <change beforePath="$PROJECT_DIR$/fight_club.html" afterPath="$PROJECT_DIR$/fight_club.html" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/lalaland.html" afterPath="$PROJECT_DIR$/lalaland.html" />
       <change beforePath="$PROJECT_DIR$/movies.html" afterPath="$PROJECT_DIR$/movies.html" />
-      <change beforePath="$PROJECT_DIR$/pulp_fiction.html" afterPath="$PROJECT_DIR$/pulp_fiction.html" />
-      <change beforePath="$PROJECT_DIR$/shrek.html" afterPath="$PROJECT_DIR$/shrek.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,24 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="movies.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/movies.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="71" column="14" lean-forward="false" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7094#7101#0" expanded="true" />
-                <element signature="e#7422#7429#0" expanded="true" />
-                <element signature="e#8328#8334#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="497">
+              <caret line="122" column="37" lean-forward="false" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,13 +38,13 @@
         <option value="$PROJECT_DIR$/access.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/news.html" />
-        <option value="$PROJECT_DIR$/movies.html" />
         <option value="$PROJECT_DIR$/pulp_fiction.html" />
         <option value="$PROJECT_DIR$/lalaland.html" />
         <option value="$PROJECT_DIR$/fight_club.html" />
         <option value="$PROJECT_DIR$/shrek.html" />
         <option value="$PROJECT_DIR$/css/justified-nav.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/movies.html" />
       </list>
     </option>
   </component>
@@ -147,12 +129,12 @@
       <workItem from="1515000777114" duration="976000" />
       <workItem from="1515419994020" duration="9048000" />
       <workItem from="1515440492050" duration="3129000" />
-      <workItem from="1515512196426" duration="4162000" />
+      <workItem from="1515512196426" duration="4348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28549000" />
+    <option name="totallyTimeSpent" value="28735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="992" extended-state="0" />
@@ -423,14 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movies.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="113" column="31" lean-forward="false" selection-start-line="113" selection-start-column="31" selection-end-line="113" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -448,6 +422,14 @@
             <element signature="e#7422#7429#0" expanded="true" />
             <element signature="e#8328#8334#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movies.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="122" column="37" lean-forward="false" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
