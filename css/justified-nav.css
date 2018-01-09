@@ -126,7 +126,22 @@ html {
   margin-right: 5px;
 }
 
-@media (max-width: 768px) {
+.width-100{
+  width:100% !important;
+}
+
+.carousel-title-fix{
+  padding-top:0;
+  bottom:0 !important;
+}
+
+@media (max-width: 992px) {
+  .carousel-title {
+    display: none !important;
+  }
+}
+
+@media (max-width: 992px) {
   .masthead h2 span {
     display: none !important;
   }
