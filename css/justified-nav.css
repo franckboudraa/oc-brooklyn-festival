@@ -1,4 +1,5 @@
-body, html {
+body,
+html {
   padding-top: 20px;
 }
 
@@ -9,24 +10,24 @@ body, html {
   background-size: cover;
 }
 
-#lalaland-theme{
-  background-image: url('../img/bg_lalaland.jpg') !important;
-  color:#fff !important;
+#lalaland-theme {
+  background-image: url('../img/bg_lalaland_filter.jpg') !important;
+  color: #fff !important;
 }
 
-#pulpfiction-theme{
-  background-image: url('../img/bg_pulpfiction.jpg') !important;
-  color:#fff !important;
+#pulpfiction-theme {
+  background-image: url('../img/bg_pulpfiction_filter.jpg') !important;
+  color: #fff !important;
 }
 
-#fightclub-theme{
-  background-image: url('../img/bg_fightclub.jpg') !important;
-  color:#fff !important;
+#fightclub-theme {
+  background-image: url('../img/bg_fightclub_filter.jpg') !important;
+  color: #fff !important;
 }
 
-#shrek-theme{
-  background-image: url('../img/bg_shrek.jpg') !important;
-  color:#fff !important;
+#shrek-theme {
+  background-image: url('../img/bg_shrek_filter.jpg') !important;
+  color: #fff !important;
 }
 
 .footer {
@@ -64,7 +65,7 @@ body, html {
 }
 
 .social-color-twitter {
-  background-color: #1DA1F2;
+  background-color: #1da1f2;
 }
 
 .social-color-instagram {
@@ -96,10 +97,14 @@ body, html {
   margin-top: 20px;
 }
 
+.margin-top-10 {
+  margin-top: 10px;
+}
+
 .metacritic-square {
   width: 80px;
   height: 80px;
-  background-color: #69ca3f
+  background-color: #69ca3f;
 }
 
 .metacritic-square div {
@@ -110,15 +115,15 @@ body, html {
 
 .metacritic-square div a {
   text-decoration: none;
-  color: #fff
+  color: #fff;
 }
 
-.no-decoration{
-  text-decoration:none !important;
+.no-decoration {
+  text-decoration: none !important;
 }
 
-.masthead h2 i{
-  margin-right:5px;
+.masthead h2 i {
+  margin-right: 5px;
 }
 
 @media (max-width: 768px) {
