@@ -4,8 +4,10 @@ html {
 }
 
 .bg {
-  background-image: url('../img/bg_1_opti.jpg');
-  background-position: center;
+  background: url(../img/bg_1_opti.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
 }
 
